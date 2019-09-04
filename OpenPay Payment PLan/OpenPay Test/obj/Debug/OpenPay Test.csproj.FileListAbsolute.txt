@@ -1,0 +1,17 @@
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\OpenPay Test.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\OpenPay Test.pdb
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\OpenPay Payment PLan.exe
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\OpenPay Payment PLan.pdb
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\OpenPay Payment PLan.exe.config
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\obj\Debug\OpenPay Test.csprojAssemblyReference.cache
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\obj\Debug\OpenPay Test.csproj.CoreCompileInputs.cache
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\obj\Debug\OpenPay Test.csproj.CopyComplete
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\obj\Debug\OpenPay Test.dll
+D:\Work apps\OpenPay\OpenPay Payment PLan\OpenPay Test\obj\Debug\OpenPay Test.pdb
